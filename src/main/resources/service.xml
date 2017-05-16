@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Projects>
+	<projects>
+		<name>portal.web</name>
+		<ip>121.196.201.18</ip>
+		<port>22149</port>
+		<user>runsadev</user>
+		<password>Runsa&amp;149</password>
+		<source>D:\workspace\runsa\portal\portal.web\target\portal.web</source>
+		<temp>D:\temp</temp>
+		<target>/temp</target>
+		<shells>/temp/publish.sh</shells>
+	</projects>
+</Projects>
